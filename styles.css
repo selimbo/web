@@ -107,3 +107,7 @@ hr{
 .bye:hover{
     color:#EAf6f6;
 }
+.buttonkirby{
+    background-image: image("giphy.gif");
+    font-size: 40px;
+}
